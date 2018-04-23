@@ -2,7 +2,8 @@
 Chapter Planning and Handouts
 
 ### Objectives
--
+- Cybersecurity Education and Careers
+- Describe and explain the legal and ethical issues facing a cybersecurity professional
 
 ## Chapter Planning (Use as a Checklist)
 1. Read 5.0.1.1 - 5.1.1.3 (3 Pages)
