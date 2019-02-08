@@ -19,7 +19,34 @@ Chapter Planning and Handouts
    - In GitHub, see PDF located in Introduction
 4. Complete the Unit Exam (no other study materials)
 
+### Additional Readings of Chapter 5
+
+Note: Additional information and questions can be Googled or asked of guest speakers using this vocabulary
+
+Cisco Learning Network
+- At the Cisco Learning Network, you can explore your potential career possibilities, obtain study materials for certification exams, and build networking relationships with other networking students and professionals. For more information, visit the following link:
+- https://learningnetwork.cisco.com
+
+Training and Certifications
+- Information regarding training and the latest Cisco certifications can be found in the Training & Certifications section on Cisco’s website:
+- http://www.cisco.com/web/learning/training-index.html
+
+Career and Salary Information
+- Now that you have completed all the modules, it is time to explore the career and salary potential in the networking field. Below are two links to sites that give job listings and potential salary information. There are many sites like this on the Internet.
+- http://www.indeed.com/salary?q1=Network+Security&l1
+
+CompTIA Certifications
+The Computing Technology Industry Association (http://www.comptia.org) offers several popular certifications including the Security+. This video from CompTIA focuses on cybersecurity.
+- https://www.youtube.com/watch?v=up9O44vEsDI
+
 ## Finishing the Course
 - Complete the Final Exam
 - Complete the End of Course Feedback
 - Review how to receive a Certificate of Completion
+
+---
+
+# To Include
+
+
+---
